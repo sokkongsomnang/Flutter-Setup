@@ -6,6 +6,7 @@ Flutter setup is just the README for step-by-step set up guide purpose only. -->
 <div align="center">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&weight=500&pause=1000&center=true&vCenter=true&width=550&lines=WELCOME+TO+Flutter+Setup+...;Step-By-Step+Toturial.)](#)
+</div>
 
 ## Download prerequisite software
 For the smoothest Flutter setup, first install the following tools.</br>
