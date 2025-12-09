@@ -10,8 +10,10 @@ Flutter setup is just the README for step-by-step set up guide purpose only. -->
 
 ## Download prerequisite software
 For the smoothest Flutter setup, first install the following tools.</br>
-**1** **Install Git for Windows**</br>
+##### **1** **Install Git for Windows**</br>
 Download and Install the latest version of <a href="https://docs.flutter.dev/install/with-vs-code" style="text-decoration: none;">Git for Windows</a>. </br>
 For help installing or troubleshooting Git, reference the <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" style="text-decoration: none;">Git Documentation</a>.
+##### **2** **Download and Install Visual Studio Code**</br>
+To quickly install Flutter, then edit and debug your apps, <a href="https://code.visualstudio.com/docs/setup/setup-overview" style="text-decoration: none;">install and set up Visual Studio Code</a>. </br>
 
 ## Install and set up Flutter
