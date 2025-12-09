@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Gradient with Animation -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="30" viewBox="0 0 800 30" role="img" aria-labelledby="title">
+  <title id="title">Ron Vanda — Animated Header</title>
+  <defs>
+    <linearGradient id="grad">
+      <stop offset="0%" stop-color="#F538FF">
+        <animate attributeName="stop-color"
+                 values="#F538FF;#F9D923;#3ACCE1;#F538FF"
+                 dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#3ACCE1">
+        <animate attributeName="stop-color"
+                 values="#3ACCE1;#F9D923;#F538FF;#3ACCE1"
+                 dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Poppins, Inter, Arial, sans-serif"
+        font-size="22" font-weight="600"
+        fill="url(#grad)">
+    💖 Flutter Setup Guide 💖
+  </text>
+</svg>
