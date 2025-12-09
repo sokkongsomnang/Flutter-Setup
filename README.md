@@ -25,7 +25,6 @@ If not already open, open VS Code by searching for it with Spotlight or opening 
 To add the Dart and Flutter extensions to VS Code, visit the <a href="https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter" style="text-decoration: none;">Flutter extension's marketplace page </a>, and click **Install**. If prompted by your browser, allow it to open VS Code. </br>
 #### **3** Install Flutter with VS Code </br>
 **1.** Open the command palette in VS Code </br>
-     Go to **View** > **Command Palette** or press ![Ctrl](data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='60'%20height='28'%3E%3Crect%20rx='6'%20ry='6'%20width='60'%20height='28'%20fill='%23f6f8fa'%20stroke='%23d1d5da'/%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-family='Arial'%20font-size='13'%20fill='%2324262a'%3ECtrl%3C/text%3E%3C/svg%3E)
-![C](data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='36'%20height='28'%3E%3Crect%20rx='6'%20ry='6'%20width='36'%20height='28'%20fill='%23f6f8fa'%20stroke='%23d1d5da'/%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-family='Arial'%20font-size='13'%20fill='%2324262a'%3EC%3C/text%3E%3C/svg%3E)
+     Go to **View** > **Command Palette** or press 
 
 
