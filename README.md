@@ -54,5 +54,6 @@ If you agree, click **OK**. </br>
 ### **4** Validate your setup
 To ensure you installed Flutter correctly, run ***flutter doctor -v*** in your preferred terminal.</br>
 
-If the command isn't found or there's an error, check out <a href="https://docs.flutter.dev/install/troubleshoot" style="text-decoration: none;">Flutter installation troubleshooting</a>.
+If the command isn't found or there's an error, check out <a href="https://docs.flutter.dev/install/troubleshoot" style="text-decoration: none;">Flutter installation troubleshooting</a>. </br>
 
+<div align="center">For more references go to : <a href="https://docs.flutter.dev/install" style="text-decoration: none;">https://docs.flutter.dev/install</a> </div>
